@@ -15,7 +15,7 @@ namespace LaczoneKulki
         int klikX;
         int klikY;
 
-        public List<MojWezel> lista = new List<MojWezel>();
+        public static List<MojWezel> lista = new List<MojWezel>();
 
         public Form1()
         {
@@ -36,6 +36,10 @@ namespace LaczoneKulki
             {
                 Rectangle rect = new Rectangle(lista[i].klikX-15, lista[i].klikY-15, 30, 30);
                 g.DrawEllipse(pioro, rect);
+                for (int j = 0; j < lista[i].sasiedzi.Count; j++)
+                {
+                    g.DrawLine(pioro, lista[i].klikX, lista[i].klikY, lista[j].klikX, lista[j].klikY);
+                }
             }
             
         }
