@@ -1,0 +1,19 @@
+C:\Users\Maciej\Desktop\Mateusz W\LaczoneKulki\LaczoneKulki\bin\Debug\LaczoneKulki.exe.config
+C:\Users\Maciej\Desktop\Mateusz W\LaczoneKulki\LaczoneKulki\bin\Debug\LaczoneKulki.exe
+C:\Users\Maciej\Desktop\Mateusz W\LaczoneKulki\LaczoneKulki\bin\Debug\LaczoneKulki.pdb
+C:\Users\Maciej\Desktop\Mateusz W\LaczoneKulki\LaczoneKulki\obj\Debug\LaczoneKulki.csprojResolveAssemblyReference.cache
+C:\Users\Maciej\Desktop\Mateusz W\LaczoneKulki\LaczoneKulki\obj\Debug\LaczoneKulki.Form1.resources
+C:\Users\Maciej\Desktop\Mateusz W\LaczoneKulki\LaczoneKulki\obj\Debug\LaczoneKulki.Properties.Resources.resources
+C:\Users\Maciej\Desktop\Mateusz W\LaczoneKulki\LaczoneKulki\obj\Debug\LaczoneKulki.csproj.GenerateResource.Cache
+C:\Users\Maciej\Desktop\Mateusz W\LaczoneKulki\LaczoneKulki\obj\Debug\LaczoneKulki.exe
+C:\Users\Maciej\Desktop\Mateusz W\LaczoneKulki\LaczoneKulki\obj\Debug\LaczoneKulki.pdb
+E:\PROJEKTY - studia\PROJEKTY Visual Studio\LaczoneKulki\LaczoneKulki\bin\Debug\LaczoneKulki.exe.config
+E:\PROJEKTY - studia\PROJEKTY Visual Studio\LaczoneKulki\LaczoneKulki\bin\Debug\LaczoneKulki.exe
+E:\PROJEKTY - studia\PROJEKTY Visual Studio\LaczoneKulki\LaczoneKulki\bin\Debug\LaczoneKulki.pdb
+E:\PROJEKTY - studia\PROJEKTY Visual Studio\LaczoneKulki\LaczoneKulki\obj\Debug\LaczoneKulki.csprojAssemblyReference.cache
+E:\PROJEKTY - studia\PROJEKTY Visual Studio\LaczoneKulki\LaczoneKulki\obj\Debug\LaczoneKulki.Form1.resources
+E:\PROJEKTY - studia\PROJEKTY Visual Studio\LaczoneKulki\LaczoneKulki\obj\Debug\LaczoneKulki.Properties.Resources.resources
+E:\PROJEKTY - studia\PROJEKTY Visual Studio\LaczoneKulki\LaczoneKulki\obj\Debug\LaczoneKulki.csproj.GenerateResource.cache
+E:\PROJEKTY - studia\PROJEKTY Visual Studio\LaczoneKulki\LaczoneKulki\obj\Debug\LaczoneKulki.csproj.CoreCompileInputs.cache
+E:\PROJEKTY - studia\PROJEKTY Visual Studio\LaczoneKulki\LaczoneKulki\obj\Debug\LaczoneKulki.exe
+E:\PROJEKTY - studia\PROJEKTY Visual Studio\LaczoneKulki\LaczoneKulki\obj\Debug\LaczoneKulki.pdb
